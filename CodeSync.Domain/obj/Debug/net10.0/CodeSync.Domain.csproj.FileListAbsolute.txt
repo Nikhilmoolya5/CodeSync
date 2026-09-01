@@ -1,0 +1,11 @@
+C:\Users\Admin\CodeSync\CodeSync.Domain\bin\Debug\net10.0\CodeSync.Domain.deps.json
+C:\Users\Admin\CodeSync\CodeSync.Domain\bin\Debug\net10.0\CodeSync.Domain.dll
+C:\Users\Admin\CodeSync\CodeSync.Domain\bin\Debug\net10.0\CodeSync.Domain.pdb
+C:\Users\Admin\CodeSync\CodeSync.Domain\obj\Debug\net10.0\CodeSync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\CodeSync\CodeSync.Domain\obj\Debug\net10.0\CodeSync.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\CodeSync\CodeSync.Domain\obj\Debug\net10.0\CodeSync.Domain.AssemblyInfo.cs
+C:\Users\Admin\CodeSync\CodeSync.Domain\obj\Debug\net10.0\CodeSync.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\CodeSync\CodeSync.Domain\obj\Debug\net10.0\CodeSync.Domain.dll
+C:\Users\Admin\CodeSync\CodeSync.Domain\obj\Debug\net10.0\refint\CodeSync.Domain.dll
+C:\Users\Admin\CodeSync\CodeSync.Domain\obj\Debug\net10.0\CodeSync.Domain.pdb
+C:\Users\Admin\CodeSync\CodeSync.Domain\obj\Debug\net10.0\ref\CodeSync.Domain.dll
